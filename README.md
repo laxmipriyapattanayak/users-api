@@ -1,7 +1,7 @@
 # users-api
 
 ```bash
-git clone https://github.com/samit-maersk/users-api.git
+git clone https://github.com/laxmipriyapattanayak/users-api.git
 
 wget https://nodejs.org/dist/v18.16.1/node-v18.16.1-linux-x64.tar.xz
 
